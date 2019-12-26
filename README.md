@@ -4,7 +4,22 @@ SISFOKOL-CBT
 
 untuk CBT / Computer Based Test di sekolah.
 
-Pastikan menggunakan webserver XAMPP 5.6.30 
+Pastikan menggunakan webserver XAMPP 5.6.30  
+
+---
+
+source code android SISFOKOL-CBT :
+
+https://github.com/hajirodeon/sisfokol_android_cbt
+
+---
+
+file apk android yang nyambung ke http://192.168.1.100/sisfokol_cbt bisa unduh di folder /filebox .
+
+---
+
+
+
 
 
 
